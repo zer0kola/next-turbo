@@ -1,5 +1,5 @@
 {
-  "name": "openapi-test",
+  "name": "next-turbo",
   "private": true,
   "scripts": {
     "build": "turbo build",
